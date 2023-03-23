@@ -1,0 +1,12 @@
+{
+	"name": "horse-prometheus-metrics",
+	"description": "Horse middleware for exposing metrics through Prometheus Client library for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/marcobreveglieri/prometheus-client-delphi",
+	"mainsrc": "./Source",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^3.1.0",
+		"github.com/marcobreveglieri/prometheus-client-delphi": "^v0.9.0"
+	}
+}
