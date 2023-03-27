@@ -1,5 +1,8 @@
-# horse-prometheus-metrics
-**Middleware for Prometheus Client** to expose metrics using *Horse* Web framework
+<div>  
+  <img alt="Prometheus Client for Delphi" height="48" src="https://ucarecdn.com/a7019e45-d14b-47cd-8ceb-70ba7848f049/" style="vertical-align: middle">
+  <h1>Horse Prometheus Metrics middleware</h2>
+  <em>Middleware for Prometheus Client to expose metrics using Horse Web framework</em>
+</div>
 
 ## Prerequisites
 
